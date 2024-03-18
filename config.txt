@@ -1,2 +1,0 @@
-this is new configuration file to update the automation
-
